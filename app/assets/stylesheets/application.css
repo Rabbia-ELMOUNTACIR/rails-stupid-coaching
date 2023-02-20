@@ -13,3 +13,22 @@
  *= require_tree .
  *= require_self
  */
+
+ /* .container {
+
+} */
+
+.h1, h2 {
+  margin-top: 26px;
+  margin-bottom: 3.5rem;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+h1 {
+  font-size: 6.5rem;
+}
+
+h2 {
+  font-size: 3rem;
+}
